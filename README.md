@@ -1,5 +1,5 @@
 # Grid Demo | Self-supervised Learning with Lightning
-In this demo example, you'll train a self-supervised model using Grid and the resent dataset.
+In this demo example, you'll train a self-supervised model using Grid and the resnet dataset.
 
 If you haven't already set up the Grid CLI, follow this [1 minute guide](https://app.gitbook.com/@grid-ai/s/grid-cli/start-here/typical-workflow-cli-user#step-0-install-the-grid-cli) on how to install the Grid CLI.
 
